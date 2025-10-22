@@ -27,7 +27,7 @@ Using Power BI, I designed a dashboard that highlights churn patterns, customer 
 ---
 
 ##  Dashboard Overview  
-![MTN Churn Dashboard](images/dashboard_preview.png)
+![MTN Churn Dashboard](Screenshot (145).png)
 
 ### Dashboard Highlights  
 - **Total Customers:** 496  
