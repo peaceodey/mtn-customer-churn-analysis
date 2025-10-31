@@ -34,7 +34,7 @@ Using Power BI, I designed a dashboard that highlights churn patterns, customer 
 - **Total Revenue:** 199M  
 - **Average Data Usage:** 99.3 GB  
 - **Average Rating:** 2.95 ⭐  
-- **Top Churn Reasons:** Better offers from competitors, costly data plans, poor network service.
+- **Top Churn Reasons:** Better offers from competitors, costly data plans, and poor network service.
 
 The dashboard features interactive filters by:
 - Gender  
