@@ -1,4 +1,4 @@
-# 📊 MTN Nigeria Customer Churn & Usage Analysis (Q1 2025)
+#  MTN Nigeria Customer Churn & Usage Analysis (Q1 2025)
 ##  Project Overview  
 This project explores **customer churn and usage behavior** among MTN Nigeria users during the first quarter of 2025.  
 As part of my data analytics journey, I wanted to understand **why customers leave** and **what drives loyalty** in the telecom industry.
